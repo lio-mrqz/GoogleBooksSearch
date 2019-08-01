@@ -1,0 +1,22 @@
+{
+  "name": "googlebookssearch",
+  "version": "1.0.0",
+  "description": "Search and save book info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lio-mrqz/GoogleBooksSearch.git"
+  },
+  "author": "Lio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lio-mrqz/GoogleBooksSearch/issues"
+  },
+  "homepage": "https://github.com/lio-mrqz/GoogleBooksSearch#readme",
+  "dependencies": {
+    "mongoose": "^5.6.7"
+  }
+}
